@@ -1,6 +1,6 @@
 # TODO set config values
 
-num_pages = 592
+num_pages = 384
 
 color_pages = []
 
@@ -14,12 +14,12 @@ max_scan_width_mm = 215.88
 max_scan_height_mm = 355.567
 
 # physical page size (before unbinding)
-page_width_mm = 124
-page_height_mm = 190
+page_width_mm = 108
+page_height_mm = 177
 
 # physical page width after unbinding
 # unbinding removes a small strip (about 5 mm width) from the inside edge
-unbinded_page_width_mm = page_width_mm - 5 # 5 mm width was removed
+unbinded_page_width_mm = 105
 
 # TODO use 4 unbinded widths:
 # 1. top width of the first page
@@ -27,10 +27,10 @@ unbinded_page_width_mm = page_width_mm - 5 # 5 mm width was removed
 # 3. bottom width of the first page
 # 4. bottom width of the last page
 # for simplicity, we can assume linear gradients between these widths
-unbinded_page_width_front_top_mm = unbinded_page_width_mm + 0
-unbinded_page_width_front_bottom_mm = unbinded_page_width_mm + 0
-unbinded_page_width_back_top_mm = unbinded_page_width_mm + 0
-unbinded_page_width_back_bottom_mm = unbinded_page_width_mm + 0
+unbinded_page_width_front_top_mm = 104
+unbinded_page_width_front_bottom_mm = 104
+unbinded_page_width_back_top_mm = 106
+unbinded_page_width_back_bottom_mm = 106
 
 # which physical page edge is fed first into the document scanner?
 # that edge becomes the scan top edge
@@ -175,8 +175,8 @@ image_viewer = "feh"
 
 fill_white_pages_lightness_file = "0683-lightness.txt"
 
-# 099.999270 325.tiff # white
-# 099.792250 001.tiff # non-white
+# 099.993329 208.tiff # white
+# 099.914990 291.tiff # non-white
 fill_white_pages_white_lightness_threshold = 99.99 / 100 # 99.99%
 
 
@@ -187,7 +187,9 @@ deskew_lightness_file = "0683-lightness.txt"
 
 # Threshold to consider a page "white" (mean lightness close to 1)
 # deskew_white_lightness_threshold = 99.99 / 100 # 99.99%
-deskew_white_lightness_threshold = 99.95 / 100 # 99.95%
+# 099.646839 063.tiff # non-white
+# 099.062906 003.tiff # text
+deskew_white_lightness_threshold = 99.5 / 100
 # deskew_white_lightness_threshold = 99.90 / 100 # 99.90%
 
 # Threshold to consider a page "black" (mean lightness close to 0)

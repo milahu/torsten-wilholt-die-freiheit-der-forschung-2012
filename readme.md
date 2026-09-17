@@ -1,12 +1,43 @@
-# TODO_BOOK_AUTHOR_NAME_YEAR
+# Torsten Wilholt - Die Freiheit der Forschung: Begründungen und Begrenzungen (2012)
 
-![TODO_BOOK_AUTHOR_NAME_YEAR](cover.avif)
+![Torsten Wilholt - Die Freiheit der Forschung: Begründungen und Begrenzungen (2012)](cover.avif)
 
-TODO_BOOK_STORE_URL
+https://www.amazon.de/dp/351829640X
 
 <blockquote>
 
-TODO_BOOK_STORE_DESCRIPTION
+Die Freiheit der Forschung: Begründungen und Begrenzungen
+
+Torsten Wilholt (Autor)
+
+3.2 out of 5 stars, (4) ratings
+
+Das Thema Forschungsfreiheit polarisiert:
+Die einen fordern sie als unabdingbare Voraussetzung der Wahrheitssuche ein,
+andere sehen in ihr kaum mehr als einen rhetorischen Trick,
+mit dessen Hilfe sich Wissenschaftler ihrer gesellschaftlichen Verantwortung zu entziehen versuchen.
+
+Um zu einer differenzierten Einschätzung der Forschungsfreiheit beizutragen,
+sucht Torsten Wilholt nach ihren philosophischen Grundlagen.
+Warum sollte eine politische Gemeinschaft gerade der Forschung besondere Freiheiten einräumen?
+
+Dieses Buch spürt den ideengeschichtlichen Ursprüngen der Wissenschaftsfreiheit nach
+und stellt zugleich Anknüpfungen her zur aktuellen Wissenschaftstheorie,
+zur sozialen Erkenntnistheorie und zur politischen Philosophie.
+
+- Herausgeber: Suhrkamp Verlag
+- Erscheinungstermin: 18. Juli 2012
+- Auflage: Originalausgabe
+- Sprache: Deutsch
+- Seitenzahl der Print-Ausgabe: 372 Seiten
+- ISBN-10: 351829640X
+- ISBN-13: 9783518296400
+- Format: Taschenbuch
+- Abmessungen: 10.9 x 2 x 17.8 cm
+- Amazon Bestseller-Rang:
+  - Nr. 1.328.712 in Bücher
+  - Nr. 23.491 in Lexika, Hand- & Jahrbücher
+  - Nr. 179.028 in Politik & Geschichte (Bücher)
 
 </blockquote>
 
@@ -20,11 +51,11 @@ TODO_BOOK_TORRENT_MAGNET_LINK
 
 ## mirrors
 
-- https://github.com/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
+- https://github.com/milahu/torsten-wilholt-die-freiheit-der-forschung-2012
+- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/torsten-wilholt-die-freiheit-der-forschung-2012
+- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/torsten-wilholt-die-freiheit-der-forschung-2012
+- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/torsten-wilholt-die-freiheit-der-forschung-2012
+- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/milahu/torsten-wilholt-die-freiheit-der-forschung-2012
 
 
 

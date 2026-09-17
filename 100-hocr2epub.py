@@ -79,28 +79,36 @@ args += [
     "--text-format", "html",
     # TODO? move these config items to 000-config.py
     "--doc-modified", doc_modified,
-]
-
-
-todo_args = [
-    "--doc-title", "",
-    "--doc-subtitle", "",
+    "--doc-title", "Die Freiheit der Forschung",
+    "--doc-subtitle", "Begründungen und Begrenzungen",
     # "--doc-subject", "",
-    "--doc-date", "2025",
+    "--doc-date", "2012-07-18",
     "--doc-edition", "1",
-    "--doc-extent", "123 pages",
-    "--color-image-pages", "124,125",
-    "--doc-author", "",
+    "--doc-extent", "384 pages",
+    "--color-image-pages", "385-386",
+    "--doc-author", "Torsten Wilholt",
     # "--doc-introducer", "",
     # "--doc-contributor", "",
     # "--doc-translator", "",
-    "--doc-publisher", "",
+    "--doc-publisher", "Suhrkamp Verlag",
     "--doc-language", "de", # german
     # "--doc-language", "en", # english
-    "--doc-isbn", "0000000000000",
-    "--doc-cover-image", "072-deskew-fix-page-size/999.tiff",
-    "--canonical-url-base", "https://TODO_REPO_OWNER_USERNAME.github.io/TODO_REPO_NAME/",
+    "--doc-isbn", "9783518296400",
+    "--doc-cover-image", "072-deskew-fix-page-size/385.tiff",
+    "--canonical-url-base", "https://milahu.github.io/torsten-wilholt-die-freiheit-der-forschung-2012/",
     "--doc-description", """
+Das Thema Forschungsfreiheit polarisiert:
+Die einen fordern sie als unabdingbare Voraussetzung der Wahrheitssuche ein,
+andere sehen in ihr kaum mehr als einen rhetorischen Trick,
+mit dessen Hilfe sich Wissenschaftler ihrer gesellschaftlichen Verantwortung zu entziehen versuchen.
+
+Um zu einer differenzierten Einschätzung der Forschungsfreiheit beizutragen,
+sucht Torsten Wilholt nach ihren philosophischen Grundlagen.
+Warum sollte eine politische Gemeinschaft gerade der Forschung besondere Freiheiten einräumen?
+
+Dieses Buch spürt den ideengeschichtlichen Ursprüngen der Wissenschaftsfreiheit nach
+und stellt zugleich Anknüpfungen her zur aktuellen Wissenschaftstheorie,
+zur sozialen Erkenntnistheorie und zur politischen Philosophie.
 """,
 ]
 
